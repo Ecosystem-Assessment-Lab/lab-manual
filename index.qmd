@@ -7,7 +7,8 @@ The goal of our research is to develop ecosystem assessments and related product
 
 This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have any suggestions, please email chris.kelble@noaa.gov or make a pull request.
 
-This lab manual was based upon the lab manual developed by the Fay Lab (). It was undertaken as part of our OpenScapes training.
+This lab manual was based upon the lab manual developed by the [Fay Lab](https://thefaylab.github.io/lab-manual/). We are grateful for their leadership and vision in creating a lab manual that addresses the important aspects of a highly successful scientific laboratory.\
+The creation of this lab manual was undertaken as part of our participation in the [Openscapes Champions program](https://openscapes.org).\
 
 <br>
 
