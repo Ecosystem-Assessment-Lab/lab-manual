@@ -25,14 +25,7 @@ book:
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-offboarding.qmd
-    - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
-    - 11-computing.qmd
-    - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
+    - 08-communication.qmd 
     - 15 Test chapter.qmd
 
 
