@@ -4,7 +4,7 @@
 We are an applied ecosystem research laboratory within NOAA's Atlantic Oceanographic and Meteorological Laboratory. We conduct ecosystem assessments and develop related scientific products to inform ecosystem based mangement of our coastal and marine ecosystems and resources.
 
 ## How we meet
-We have weekly virtual lab meetings via Google Meet. We also meet in project teams virtually and in-person. We set the agenda and have running notes via google docs.
+We have weekly virtual lab meetings via Google Meet. We also meet in project teams virtually and in-person. We set the agenda and have running notes via google docs for all meetings.
 In addition, we have informal meetings and occasionally have team happy hours at the RSMAS WetLab.
 
 ## How we give feedback
