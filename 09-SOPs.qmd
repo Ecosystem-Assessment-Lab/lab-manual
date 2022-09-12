@@ -1,3 +1,38 @@
 # Standard Operating Procedures {#sops}
 
 **Add either links to SOPs or if more condensed full SOPs under their own heading**
+
+Dissolved oxygen analysis SOP:
+The Winkler titration amperometric system uses the following calculation: concentration C1 X C2 = volume V1 X V2, using a standard concentration at a known volume. 
+The autotitrator measures how much sodium thiosulfate it takes to 0. The amount of iodine is used to calculate the amount of oxygen in the sample.
+
+Sample analysis procedure: 
+Remove sample bottle from crate. Dump the sealing water on the outside of the stopper and dry the bottle and bottle neck thoroughly, using Kim Wipes and the flat blade tool to soak up any sealing water in the cracks of the stopper and bottle neck. 
+Remove the stopper carefully. Slide a magnetic stir bar in, taking care not to splash sample. Add 1 mL of H2SO4 (be sure to check autopipette and resent if necessary). 
+Place sample bottle on stir plate set up, be sure stir speed is set at 8.5.
+Gently dry the electrodes and sodium thiosulfate piping using a KimWipe.
+When precipitate is full dissolved, gently swing electrode over, raise and lower into sample, checking to make sure the electrodes are both under the water line. 
+In the autotitrator software on the computer, enter the cruise number, assign a number to the station, enter the sample date, enter the draw temperature and salinity for the CTD station, enter the current temperature in the room as the thio temperature, and be sure the standard average and the blank values for this thio batch were added. Enter the bottle number after checking to make sure the program is referencing the correct "box color" bottle volume file. Check to be sure the bottle volume value is correct from George's printed out copies. These are the only editable fields on the software. Contact Pedro Pena if you have autotitrator software or connectivity issues.
+Click the "sample" button on the computer. As the sample titrates, the software will document the amount of thio added and make a plot. The plot should have at least 7-8 points. The titration will stop automatically and beep. The program does not allow for more than 30 additions of thiosulfate, so if you get an error message, go to the configuration tab and decrease the slope and save your changes, then return to main tab of program. The usual setting in the configuration tab are: m=4 or 4.5, speed=0.8, wait=800. Be sure to resent autotitator afer making any changes, which will dump excess thio from the burette- be sure this does not dump into a new sample.
+Record the end point thio amount in uL and calculated oxygen value in uM the oxygen notebook, then click "reset and save" to reset the titrator. This will dump excess thio from the burrette into your consumed sample. This saves the values to the data folder on the computer. Add any remarks to the oxygen notebook e.g. "top of bottle dry", "error messages", "not enough points plotted", "slope changed", etc.
+Dump the consumed sample (should be fully clear) down the sink. Rinse the bottle thoroughly with DI and set upside down on counter to dry.
+Continue this process for all cruise samples. Be sure to replace the electrodes into the attached vial when done running samples. This vial should contain DI and 1 mL of H2SO4. Be sure to update the field with each bottle number and the thio temperature if it changes, and update each station's name, draw temps and salinities.
+
+Oxygen standards SOP:
+Use oxygen bottle labeled S, rename as a .std in the data file
+Rinse standard bottle 3 times with DI, then fill 3/4 way with DI water. Carefully add 1 mL of  H2SO4. 
+Slide in stir bar, put bottle on stir plate, rinse down neck with DI.
+Add 1 mL of reagent #2 to bottle, place bottle on stir plate, rinse down neck. 
+Add 1 mL of reagent #1 to bottle, place bottle on stir plate, rinse down neck. 
+Carefully add 10 mL of KIO3 standard (watch out, it squirts), place bottle on stir plate, rinse down neck. 
+After drying, gently swing electrode over, raise and lower into sample, checking to make sure the electrodes are both under the water line. 
+Click the "sample" button on the computer. As the sample titrates, the software will document the amount of thio added and make a plot. The plot should have at least 7-8 points. The titration will stop automatically and beep.
+record end point of standards titration. Repeat 3-5 times and calcluate average, then enter in "standard" field in titration program. 
+
+Making reagents SOP:
+Access dry chemical storage in labeled caibnet in microbiology lab
+Weigh our 17.5 grams of sodium thiosulfate crystals in a measuring boat on the lab balance- be sure to tare( will likey need to chop a crystal into bits- use brush to ensure all weighed chemical makes it into bottle) and dissolve into 500 mL DI water. This must sit around 24 hours in order for bonds to break. Be sure to cover beaker with parafilm. Once dissolved, pour into a clean amber narrow necked bottle- these are pre-labeled- and insert titrator piping fully to bbottom of bottle and parafilm into place.
+Weigh out 600 g of MgCl in a measuring boat on the lab balance- be sure to tare. Dissolve 600 g of MgCl into 1 L of DI water in beaker, stir until dissolved, then pour into narrow necked, labeled amber bottles for cruises. 
+Weigh out 600 g NaI and 320 g NaOH in measuring boats on tared lab balance. Dissolve into 1 L DI water in beaker. Be sure to wear gloves and use caution when handling- alkaline sodium iodide produces heat.
+Dilute sulfuric acid- add 280 mL to 700 mL Di. be sure to add acid to water, not water to acid. Wear gloves and use caution when handling!
+To make KIO3 standard, oven dry a small quantity at 105-110 degree C overnight. Use 0.3567 per 1 L. 
